@@ -1,7 +1,8 @@
 ## Fala Dev!!! , sou o Vinicius Zanetti
 
-- 🔭 Hoje trabalho Full Stack
-- 🌱 Estou estudando TypeScript, React Native entre outros
+- 🔭 Hoje em dia sou Desenvolvedor Full Stack Jr.
+- 🌱 Estou estudando TypeScript, React Native, ReactJs e entre outras tecnologias.
+- 🚀 Sempre antenado nas tecnologias mais recentes do mercado.
 - 😄 Pronouns: ele/dele
 
 <div>
