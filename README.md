@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ViniciusZanetti/"><i>Vinicius Zanetti</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/vin%C3%ADcius-zanetti-99904a18b/"><i>Vinicius Zanetti</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento de software, atualmente atuo como Full Stack Jr, com foco nos frameworks ReactJs, Angular e com foco em nodeJs</i>
 
 <div align="center">
