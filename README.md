@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <img align="center" alt="coding" src="[https://www.google.com/search?q=gif+lofi+coding&sxsrf=ALiCzsYO7zZsV6ax2ua9g5I4caoxL1UNQQ:1661881717176&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjxs6Trj-_5AhV_qJUCHeYeCKgQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=xblx05UxhSWlfM](https://br.pinterest.com/pin/chill-codingprogramming-lofi-animation--861876447449317884/)"/>
+  <img align="center" alt="coding" src="https://br.pinterest.com/pin/chill-codingprogramming-lofi-animation--861876447449317884/"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
