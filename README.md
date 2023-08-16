@@ -7,7 +7,7 @@
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/vin%C3%ADcius-zanetti-99904a18b/"><i>Vinicius Zanetti</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento de software, atualmente atuo como Full Stack Jr, com foco nos frameworks ReactJs, Angular e com foco em nodeJs</i>
+  <p align="center">Estudo Desenvolvimento de software, atualmente atuo como Full Stack PL, com foco nos frameworks React, Angular e com foco em c#</i>
 
 <div align="center">
   <a href="https://github.com/ViniciusZanetti">
@@ -18,7 +18,6 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/angular-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
