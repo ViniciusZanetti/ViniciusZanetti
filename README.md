@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusZanetti">
-    <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=ViniciusZanetti&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F861876447441610999%2F&psig=AOvVaw22E8BqYHxX-Em32R1-SWTg&ust=1692276731715000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDnk5uc4YADFQAAAAAdAAAAABAE)"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusZanetti&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZanetti&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
