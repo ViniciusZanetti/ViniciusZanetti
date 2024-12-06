@@ -7,7 +7,7 @@
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/vin%C3%ADcius-zanetti-99904a18b/"><i>Vinicius Zanetti</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento de software, atualmente atuo como Full Stack PL, com foco nos frameworks React, Angular e com foco em c#</i>
+  <p align="center">Estudo Desenvolvimento de software, atualmente atuo como Full Stack PL, com foco nos frameworks Angular e com foco em c# e java. AWS como Cloud!</i>
 
 <div align="center">
   <a href="https://github.com/ViniciusZanetti">
