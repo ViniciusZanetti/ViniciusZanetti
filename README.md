@@ -1,7 +1,7 @@
 ## Fala Dev!!! , sou o Vinicius Zanetti
 
-- 🔭 Hoje em dia sou Desenvolvedor Full Stack PL.
-- 🌱 Estou estudando Flutter, C#, Angular e entre outras tecnologias.
+- 🔭 Hoje em dia sou Desenvolvedor Full Stack PL (Java/C#/Angular).
+- 🌱 Estou estudando AWS, C#, Angular, Java e entre outras tecnologias.
 - 🚀 Sempre antenado nas tecnologias mais recentes do mercado.
 - 😄 Pronouns: ele/dele
 
